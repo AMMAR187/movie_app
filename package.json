@@ -4,7 +4,9 @@
   "description": "it's an app for search and show movies info",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "lite-server",
+    "lite": "npm run server"
   },
   "keywords": [
     "movies"
@@ -15,6 +17,7 @@
     "lite-server": "^2.4.0"
   },
   "devDependencies": {
+    "jquery": "^3.3.1",
     "sass": "^1.10.0"
   }
 }
