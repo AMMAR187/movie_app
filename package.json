@@ -1,0 +1,20 @@
+{
+  "name": "movie_app",
+  "version": "1.0.0",
+  "description": "it's an app for search and show movies info",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movies"
+  ],
+  "author": "AMMAR MAHMOUD",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "devDependencies": {
+    "sass": "^1.10.0"
+  }
+}
