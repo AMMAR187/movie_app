@@ -2,6 +2,7 @@
   "name": "movie_app",
   "version": "1.0.0",
   "description": "it's an app for search and show movies info",
+  "homepage": "https://AMMAR187.github.io/movie_app",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
